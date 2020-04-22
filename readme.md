@@ -30,6 +30,8 @@ nodecli something_as_input --option="flag"
 nodecli new -o hello
 ```
 
+> This code helps you with creating a basic command and flag based CLI. It's a work in progress and I intend to make it complete this month.
+
 <br>
 
 [![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
