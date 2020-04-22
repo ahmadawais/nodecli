@@ -29,12 +29,28 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [0.2.1](https://github.com/ahmadawais/nodecli/compare/0.2.0...0.2.1)
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Notice [`5089c3a`](https://github.com/ahmadawais/nodecli/commit/5089c3abef282843356ae8596b1d835d67119fa3) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 0.2.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 First commit [`a72c912`](https://github.com/ahmadawais/nodecli/commit/a72c9128b86bfab932ff80bf1bb86529cb9187b3) <br>
 > 📦 First version [`d073c77`](https://github.com/ahmadawais/nodecli/commit/d073c77321151784c6b8fec56353257d5c01b49a) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`bdb3290`](https://github.com/ahmadawais/nodecli/commit/bdb3290509b6aa8062a63ceb3885147ea4969796) <br>
 
 <br>
 
