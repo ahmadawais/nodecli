@@ -29,8 +29,8 @@ module.exports = meow(
 		inferType: false,
 		flags: {
 			option: {
-				type: 'boolean',
-				default: false,
+				type: 'string',
+				default: `You didn't provide any option.'`,
 				alias: 'o'
 			}
 		}
