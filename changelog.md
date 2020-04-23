@@ -2,11 +2,11 @@
 
 All notable changes in this project's [released versions](../../releases) are documented in this file.
 
-If you or your company use any of my projects or like what I’m doing then consider [backing me](https://github.com/AhmadAwais/sponsor). I'm in this for the long run. An open-source developer advocate.
+> If you or your company use any of my projects or like what I’m doing then consider [backing me](https://github.com/AhmadAwais/sponsor). I'm in this for the long run. An open-source developer advocate.
 
 [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://NodeCLI.com/?utm_source=FOSS)
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=GitHubFOSS)
-[![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <br>
 
@@ -47,6 +47,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 > 📖 Changelog [`f6b7a51`](https://github.com/ahmadawais/nodecli/commit/f6b7a510cbde7ae11700e01f46b523ea4a11d1f3) <br>
+>  📖 Changelog [`9cd170a`](https://github.com/ahmadawais/nodecli/commit/9cd170a0b2abc25f0604302b7e2de160dd3cfbea) <br>
 
 <br>
 
