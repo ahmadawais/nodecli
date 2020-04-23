@@ -2,7 +2,7 @@
 
 All notable changes in this project's [released versions](../../releases) are documented in this file.
 
-[![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://NodeCLI.com/?utm_source=FOSS)
+[![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://NodeCLI.com/?utm_source=FOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <br>
@@ -29,11 +29,27 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [0.2.3](https://github.com/ahmadawais/nodecli/compare/0.2.2...0.2.3)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Format [`0a846a0`](https://github.com/ahmadawais/nodecli/commit/0a846a0e4bd9f1c6f0fd0d52bc4cef68e687b737) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [0.2.2](https://github.com/ahmadawais/nodecli/compare/0.2.1...0.2.2)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 Funding [`3a70496`](https://github.com/ahmadawais/nodecli/commit/3a7049620d057065ed25ba9e6b19ae943a5c6f6c) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`e0ac498`](https://github.com/ahmadawais/nodecli/commit/e0ac4985b44c830654642a5a841dc5166d7660e6) <br>
 
 <br>
 
@@ -113,5 +129,5 @@ without wasting a 1,000 hours</a> →</p>
 
 <br>
 
-[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=488640&style=flat)](https://nodecli.com/?utm_source=FOSS)
+[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://nodecli.com/?utm_source=FOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
