@@ -4,8 +4,8 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > [**Support my work**][sponsor]: If you or your company use any of my projects or like what I’m doing then consider [backing me][sponsor]. I'm in this for the long run. An open-source developer advocate.
 
-[![Sponsor Awais](https://img.shields.io/badge/-Sponsor%20Awais%20%E2%86%92-gray.svg?colorB=5F38F5)](https://https://github.com/AhmadAwais/sponsor/?utm_source=FOSS) [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://NodeCLI.com/?utm_source=FOSS)
-[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=GitHubFOSS)
+[![Sponsor Awais](https://img.shields.io/badge/-Sponsor%20Awais%20%E2%86%92-gray.svg?colorB=5F38F5)](https://https://github.com/AhmadAwais/sponsor/?utm_source=FOSS) [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=5F38F5)](https://NodeCLI.com/?utm_source=FOSS)
+[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=5F38F5)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <br>
@@ -49,6 +49,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 > 📖 Changelog [`f6b7a51`](https://github.com/ahmadawais/nodecli/commit/f6b7a510cbde7ae11700e01f46b523ea4a11d1f3) <br>
 >  📖 Changelog [`9cd170a`](https://github.com/ahmadawais/nodecli/commit/9cd170a0b2abc25f0604302b7e2de160dd3cfbea) <br>
 >  📖 Changelog [`d28f6a8`](https://github.com/ahmadawais/nodecli/commit/d28f6a81d43c84785db3f6bf6ce587f4de511384) <br>
+>  📖 Changelog [`145952d`](https://github.com/ahmadawais/nodecli/commit/145952dc8b5e6c461929a7c4c7a02e83ed943042) <br>
 >  📖 Changelog [`4864ea9`](https://github.com/ahmadawais/nodecli/commit/4864ea997ce0733beb3617d3b70464640c743752) <br>
 
 <br>
