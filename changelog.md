@@ -2,7 +2,10 @@
 
 All notable changes in this project's [released versions](../../releases) are documented in this file.
 
+If you or your company use any of my projects or like what I’m doing then consider [backing me](https://github.com/AhmadAwais/sponsor). I'm in this for the long run. An open-source developer advocate.
+
 [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://NodeCLI.com/?utm_source=FOSS)
+[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <br>
@@ -31,9 +34,19 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ### RELEASE: [0.2.3](https://github.com/ahmadawais/nodecli/compare/0.2.2...0.2.3)
 
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Funding [`df416f3`](https://github.com/ahmadawais/nodecli/commit/df416f3fb5d655303956285a45575491d3400aa3) <br>
+> 👌 Funding [`6d1afc2`](https://github.com/ahmadawais/nodecli/commit/6d1afc20e5a54bb86757224fec9fa6688045d50d) <br>
+> 👌 Funding [`c76a868`](https://github.com/ahmadawais/nodecli/commit/c76a86894275241efe4e7a731eee1e883a7097c8) <br>
+
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Format [`0a846a0`](https://github.com/ahmadawais/nodecli/commit/0a846a0e4bd9f1c6f0fd0d52bc4cef68e687b737) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`f6b7a51`](https://github.com/ahmadawais/nodecli/commit/f6b7a510cbde7ae11700e01f46b523ea4a11d1f3) <br>
 
 <br>
 
@@ -131,3 +144,5 @@ without wasting a 1,000 hours</a> →</p>
 
 [![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://nodecli.com/?utm_source=FOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+> [Support my work →](https://github.com/AhmadAwais/sponsor)
