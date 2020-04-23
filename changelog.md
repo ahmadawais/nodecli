@@ -49,6 +49,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 > 📖 Changelog [`f6b7a51`](https://github.com/ahmadawais/nodecli/commit/f6b7a510cbde7ae11700e01f46b523ea4a11d1f3) <br>
 >  📖 Changelog [`9cd170a`](https://github.com/ahmadawais/nodecli/commit/9cd170a0b2abc25f0604302b7e2de160dd3cfbea) <br>
 >  📖 Changelog [`d28f6a8`](https://github.com/ahmadawais/nodecli/commit/d28f6a81d43c84785db3f6bf6ce587f4de511384) <br>
+>  📖 Changelog [`b7ec7df`](https://github.com/ahmadawais/nodecli/commit/b7ec7df706b82b6922f5f2b9b55ced201bcb37f6) <br>
 >  📖 Changelog [`145952d`](https://github.com/ahmadawais/nodecli/commit/145952dc8b5e6c461929a7c4c7a02e83ed943042) <br>
 >  📖 Changelog [`4864ea9`](https://github.com/ahmadawais/nodecli/commit/4864ea997ce0733beb3617d3b70464640c743752) <br>
 
@@ -138,6 +139,8 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 
 <br>
 
+[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://nodecli.com/?utm_source=FOSS)
+
 Or you can back me by checking out my super fun video course. After building hundreds of developer automation tools used by millions of developers, I am sharing exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript based CLI (Command Line Interface) apps. Automate the grunt work, do more in less time, impress your manager, and help the community.
 → I'm sharing it all in this online video course. <a href="https://nodecli.com/?utm_source=FOSS" target="_blank">Node CLI Automation
 without wasting a 1,000 hours</a> →</p>
@@ -146,9 +149,10 @@ without wasting a 1,000 hours</a> →</p>
 
 <br>
 
-[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://nodecli.com/?utm_source=FOSS)
-[![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+> [**Support my work**][sponsor]: If you or your company use any of my projects or like what I’m doing then consider [backing me][sponsor]. I'm in this for the long run. An open-source developer advocate.
 
-> [Support my work →][sponsor]
+[![Sponsor Awais](https://img.shields.io/badge/-Sponsor%20Awais%20%E2%86%92-gray.svg?colorB=5F38F5)](https://https://github.com/AhmadAwais/sponsor/?utm_source=FOSS) [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=5F38F5)](https://NodeCLI.com/?utm_source=FOSS)
+[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=5F38F5)](https://VSCode.pro/?utm_source=GitHubFOSS)
+[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 [sponsor]: https://github.com/AhmadAwais/sponsor
