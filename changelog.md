@@ -32,13 +32,33 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
-### RELEASE: [0.2.3](https://github.com/ahmadawais/nodecli/compare/0.2.2...0.2.3)
+### RELEASE: [0.2.4](https://github.com/ahmadawais/nodecli/compare/0.2.3...0.2.4)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
+> 👌 Image top [`52505fd`](https://github.com/ahmadawais/nodecli/commit/52505fdcdf52c6254255cedc73d46e06377bcffb) <br>
 > 👌 Funding [`df416f3`](https://github.com/ahmadawais/nodecli/commit/df416f3fb5d655303956285a45575491d3400aa3) <br>
 > 👌 Funding [`6d1afc2`](https://github.com/ahmadawais/nodecli/commit/6d1afc20e5a54bb86757224fec9fa6688045d50d) <br>
 > 👌 Funding [`c76a868`](https://github.com/ahmadawais/nodecli/commit/c76a86894275241efe4e7a731eee1e883a7097c8) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog [`9cd170a`](https://github.com/ahmadawais/nodecli/commit/9cd170a0b2abc25f0604302b7e2de160dd3cfbea) <br>
+>  📖 Changelog [`bf8124f`](https://github.com/ahmadawais/nodecli/commit/bf8124fb0532f30454387658c4ca7c034111ef16) <br>
+>  📖 Changelog [`c820f5b`](https://github.com/ahmadawais/nodecli/commit/c820f5b0a22c8b4c385c38891fd922c4978d171f) <br>
+>  📖 Changelog [`d28f6a8`](https://github.com/ahmadawais/nodecli/commit/d28f6a81d43c84785db3f6bf6ce587f4de511384) <br>
+>  📖 Changelog [`6da4d3a`](https://github.com/ahmadawais/nodecli/commit/6da4d3a66bded9e992b51552eeda00630fd158a6) <br>
+>  📖 Changelog [`b7ec7df`](https://github.com/ahmadawais/nodecli/commit/b7ec7df706b82b6922f5f2b9b55ced201bcb37f6) <br>
+>  📖 Changelog [`145952d`](https://github.com/ahmadawais/nodecli/commit/145952dc8b5e6c461929a7c4c7a02e83ed943042) <br>
+>  📖 Changelog [`4864ea9`](https://github.com/ahmadawais/nodecli/commit/4864ea997ce0733beb3617d3b70464640c743752) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [0.2.3](https://github.com/ahmadawais/nodecli/compare/0.2.2...0.2.3)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -47,13 +67,6 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 > 📖 Changelog [`f6b7a51`](https://github.com/ahmadawais/nodecli/commit/f6b7a510cbde7ae11700e01f46b523ea4a11d1f3) <br>
->  📖 Changelog [`9cd170a`](https://github.com/ahmadawais/nodecli/commit/9cd170a0b2abc25f0604302b7e2de160dd3cfbea) <br>
->  📖 Changelog [`bf8124f`](https://github.com/ahmadawais/nodecli/commit/bf8124fb0532f30454387658c4ca7c034111ef16) <br>
->  📖 Changelog [`c820f5b`](https://github.com/ahmadawais/nodecli/commit/c820f5b0a22c8b4c385c38891fd922c4978d171f) <br>
->  📖 Changelog [`d28f6a8`](https://github.com/ahmadawais/nodecli/commit/d28f6a81d43c84785db3f6bf6ce587f4de511384) <br>
->  📖 Changelog [`b7ec7df`](https://github.com/ahmadawais/nodecli/commit/b7ec7df706b82b6922f5f2b9b55ced201bcb37f6) <br>
->  📖 Changelog [`145952d`](https://github.com/ahmadawais/nodecli/commit/145952dc8b5e6c461929a7c4c7a02e83ed943042) <br>
->  📖 Changelog [`4864ea9`](https://github.com/ahmadawais/nodecli/commit/4864ea997ce0733beb3617d3b70464640c743752) <br>
 
 <br>
 
